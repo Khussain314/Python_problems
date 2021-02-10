@@ -1,2 +1,2 @@
 # 
-Exercises for python
+Algorithms
